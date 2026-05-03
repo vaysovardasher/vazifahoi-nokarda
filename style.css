@@ -218,9 +218,70 @@ header {
   justify-content: center;
   gap: 10px;
 }
-.icon1{
-    max-width: 15px;
-    padding: 3px;
-    border: 1px solid rgb(224, 217, 217);
-    border-radius: 50%;
+.icon1 {
+  max-width: 15px;
+  padding: 3px;
+  border: 1px solid rgb(224, 217, 217);
+  border-radius: 50%;
+}
+.section3 {
+  width: 100%;
+  padding: 80px 0;
+}
+.container3 {
+  width: 85%;
+  margin: auto;
+}
+.title4 {
+  font-size: 36px;
+  color: black;
+  padding-bottom: 40px;
+}
+.div8 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 25px;
+}
+.div9 {
+  width: 20%;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: rgb(240, 245, 245);
+}
+.div9:hover {
+  transform: translateY(-9px);
+}
+.img4 {
+  width: 65%;
+  height: 140px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.title5 {
+  font-size: 18px;
+  color: black;
+}
+.parag4 {
+  font-size: 14px;
+  color: rgb(139, 172, 62);
+  padding: 5px 0;
+}
+.img5 {
+  width: 90px;
+  margin-top: 5px;
+}
+.div10 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.button5 {
+  width: 160px;
+  height: 40px;
+  background-color: rgb(139, 172, 62);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
 }
