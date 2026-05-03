@@ -320,3 +320,47 @@ header {
   width: 630px;
   margin-bottom: 55px;
 }
+footer{
+  width:100%;
+  background-color:rgb(34, 154, 89);
+  padding:35px 0;
+}
+.container7{
+  width:80%;
+  margin:auto;
+  display:flex;
+  justify-content:space-between;
+}
+.div17{
+  width:20%;
+}
+.img8{
+  width:150px;
+  margin-bottom:15px;
+}
+.parag8{
+  color:white;
+  font-size:16px;
+  padding-top:8px;
+}
+.parag9{
+  color:white;
+  font-size:14px;
+  line-height:22px;
+}
+.div18{
+  width:17%;
+  display:flex;
+  flex-direction:column;
+}
+.title10{
+  color:white;
+  font-size:19px;
+  padding-bottom:15px;
+}
+.link5{
+  text-decoration:none;
+  color:white;
+  font-size:16px;
+  margin-bottom:10px;
+}
