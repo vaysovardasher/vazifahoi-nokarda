@@ -371,3 +371,161 @@ footer {
   color: rgb(117, 117, 117);
   padding-top: 35px;
 }
+@media (max-width: 630px) {
+  header {
+    height: 65px;
+  }
+  .header {
+    width: 90%;
+    justify-content: space-between;
+  }
+  .logo1 {
+    width: 120px;
+    margin-right: 0;
+  }
+  .link1, .link2 {
+    display: none;
+  }
+  .button1 {
+    width: 120px;
+    height: 32px;
+    font-size: 11px;
+    margin-left: 0;
+  }
+  .section1 {
+    height: auto;
+    padding-bottom: 40px;
+  }
+  .container1 {
+    width: 90%;
+    display: block;
+    position: relative;
+  }
+  .div1 {
+    width: 100%;
+  }
+  .title1 {
+    font-size: 34px;
+    line-height: 42px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .div2 {
+    width: 100%;
+    height: 280px;
+    position: relative;
+  }
+  .img1 {
+    width: 260px;
+    right: 35px;
+    top: 10px;
+  }
+  .div3 {
+    width: 210px;
+    height: 60px;
+    left: 85px;
+    bottom: 20px;
+  }
+  .img2 {
+    width: 45px;
+    height: 45px;
+  }
+  .title2 {
+    font-size: 11px;
+  }
+  .subtitle2 {
+    font-size: 10px;
+  }
+  .div3 .img3 {
+    width: 70px;
+    margin-bottom: 0;
+  }
+  .subtitle1 {
+    width: 100%;
+    font-size: 13px;
+    line-height: 22px;
+    padding-bottom: 25px;
+  }
+  .button2 {
+    width: 120px;
+    height: 34px;
+    font-size: 10px;
+  }
+  .button3 {
+    width: 90px;
+    height: 34px;
+    font-size: 10px;
+  }
+  .section2 {
+    padding: 40px 0;
+  }
+  .container2 {
+    width: 90%;
+  }
+  .title3 {
+    font-size: 22px;
+    line-height: 28px;
+    padding-bottom: 25px;
+  }
+  .div4 {
+    overflow-x: auto;
+    justify-content: flex-start;
+    gap: 15px;
+  }
+  .div5, .div6 {
+    min-width: 130px;
+    height: 120px;
+  }
+  .div5 .img3,
+  .div6 .img3 {
+    width: 35px;
+    margin-bottom: 10px;
+  }
+  .parag2 {
+    font-size: 12px;
+  }
+  .parag3 {
+    font-size: 10px;
+  }
+  .div7 {
+    display: none;
+  }
+  .section3 {
+    padding: 40px 0;
+  }
+  .container3 {
+    width: 90%;
+  }
+  .title4 {
+    font-size: 22px;
+    line-height: 28px;
+    padding-bottom: 25px;
+  }
+  .div8 {
+    display: block;
+  }
+  .div9 {
+    width: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  .img4 {
+    width: 90px;
+    height: 90px;
+  }
+  .title5 {
+    font-size: 18px;
+  }
+  .parag4 {
+    font-size: 13px;
+  }
+  .img5 {
+    width: 85px;
+  }
+  .div10 {
+    display: none;
+  }
+  footer {
+    display: none;
+  }
+}
