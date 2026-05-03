@@ -208,7 +208,7 @@ header {
   width: 55%;
 }
 .title6 {
-    width: 850px;
+  width: 850px;
   font-size: 39px;
   color: white;
   padding-bottom: 30px;
@@ -229,4 +229,94 @@ header {
   position: relative;
   z-index: 2;
   bottom: 38px;
+}
+.section5 {
+  width: 100%;
+  padding: 70px 0;
+  background-color: rgba(241, 245, 248, 1);
+}
+.container5 {
+  width: 80%;
+  margin: auto;
+}
+.title7 {
+  font-size: 30px;
+  color: rgb(20, 20, 20);
+  padding-bottom: 35px;
+}
+.div13 {
+  display: flex;
+  justify-content: space-between;
+}
+.img5 {
+  width: 23%;
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  margin-top: 40px;
+}
+.section6 {
+  width: 100%;
+  padding: 90px 0px;
+}
+.container6 {
+  width: 80%;
+  height: 50vh;
+  margin: auto;
+  background-color: rgba(39, 39, 39, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50x 20px;
+  color: white;
+  border-radius: 20px;
+}
+.div14 {
+  width: 55%;
+  padding-left: 40px;
+}
+.title8 {
+  font-size: 43px;
+  padding-bottom: 20px;
+}
+.parag6 {
+  font-size: 18px;
+  padding-bottom: 25px;
+}
+.div15 {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+.div16 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.input1,
+.input2 {
+  width: 260px;
+  height: 40px;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 30px;
+  padding-left: 10px;
+}
+.button7 {
+  width: 260px;
+  height: 40px;
+  background-color: rgb(55, 184, 111);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 17px;
+}
+.parag7 {
+  width: 600px;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.link4 {
+  color: rgba(59, 185, 109, 1);
+}
+.img6 {
+  width: 630px;
+  margin-bottom: 55px;
 }
