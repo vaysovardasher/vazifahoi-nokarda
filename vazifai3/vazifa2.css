@@ -270,3 +270,56 @@ header {
   line-height:22px;
   color:rgb(100,100,100);
 }
+.section5{
+  width:100%;
+  padding:80px 0;
+  background:linear-gradient(to right, rgb(10,25,50), rgb(5,15,35));
+  text-align:center;
+}
+.container5{
+  width:90%;
+  margin:auto;
+}
+.title8{
+  font-size:30px;
+  color:white;
+  padding-bottom:10px;
+}
+.parag9{
+  font-size:14px;
+  color:rgb(180,180,180);
+  padding-bottom:50px;
+}
+.div12{
+  display:flex;
+  justify-content:space-between;
+  position:relative;
+}
+.div13{
+  width:30%;
+  position:relative;
+  z-index:2;
+}
+.circle1{
+  width:60px;
+  height:60px;
+  border-radius:50%;
+  border:2px solid rgb(0, 200, 180);
+  color:rgb(0, 200, 180);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:auto;
+  margin-bottom:20px;
+  font-weight:bold;
+}
+.title9{
+  color:white;
+  font-size:16px;
+  padding-bottom:10px;
+}
+.parag10{
+  color:rgb(180,180,180);
+  font-size:13px;
+  line-height:20px;
+}
