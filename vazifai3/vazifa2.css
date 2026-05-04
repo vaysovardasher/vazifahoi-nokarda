@@ -393,7 +393,7 @@ header {
 }
 .div17 {
   width: 45%;
-  background-color: #00535B;
+  background-color: #00535b;
   padding: 80px;
 }
 .title12 {
@@ -479,7 +479,7 @@ footer {
 }
 .title13 {
   font-size: 16px;
-  color: #00535B;
+  color: #00535b;
   padding-bottom: 18px;
 }
 .link4 {
@@ -487,4 +487,293 @@ footer {
   font-size: 14px;
   color: grey;
   margin-bottom: 10px;
+}
+.img5 {
+  display: none;
+}
+.icon1 {
+  display: none;
+}
+@media (max-width: 630px) {
+  header {
+    height: 70px;
+  }
+  .header {
+    width: 90%;
+    justify-content: space-between;
+  }
+  .logo1 {
+    margin-right: 0;
+    width: 150px;
+  }
+  .link1,
+  .link2,
+  .button1 {
+    display: none;
+  }
+  .icon1 {
+    display: block;
+    width: 26px;
+  }
+  .img5 {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .section1 {
+    height: 560px;
+  }
+  .container1 {
+    width: 100%;
+  }
+  .div1 {
+    top: 40px;
+    left: 22px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 28px;
+    border-radius: 18px;
+    width: 75%;
+  }
+  .title1 {
+    font-size: 34px;
+    line-height: 42px;
+    color: rgb(0, 91, 96);
+  }
+  .parag1 {
+    display: none;
+  }
+  .div2 {
+    width: 80%;
+    height: 100px;
+    display: block;
+    left: 22px;
+    bottom: 140px;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .div3 {
+    width: 100%;
+    height: 45px;
+    border: none;
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+  }
+  .parag2 {
+    display: none;
+  }
+  .title2 {
+    font-size: 14px;
+    color: grey;
+  }
+  .button2 {
+    width: 100%;
+    height: 50px;
+    margin-left: 0;
+    font-size: 16px;
+  }
+  .section2 {
+    padding: 35px 0;
+    background-color: rgb(245, 248, 250);
+  }
+  .container2 {
+    width: 90%;
+  }
+  .div4 {
+    padding-bottom: 20px;
+  }
+  .title3 {
+    font-size: 26px;
+  }
+  .parag3 {
+    font-size: 15px;
+  }
+  .link3 {
+    font-size: 14px;
+  }
+  .div5 {
+    overflow-x: auto;
+    gap: 18px;
+    justify-content: flex-start;
+  }
+  .div6 {
+    min-width: 185px;
+    height: 210px;
+  }
+  .section3 {
+    padding: 40px 0;
+  }
+  .container3 {
+    width: 90%;
+  }
+  .title5 {
+    font-size: 26px;
+    text-align: left;
+  }
+  .parag5 {
+    display: none;
+  }
+  .div8 {
+    display: block;
+  }
+  .div9 {
+    width: auto;
+    margin-bottom: 25px;
+  }
+  .img2 {
+    height: 260px;
+  }
+  .div10 {
+    display: block;
+  }
+  .title6 {
+    font-size: 20px;
+  }
+  .price1 {
+    font-size: 18px;
+    padding-top: 6px;
+  }
+  .button3 {
+    height: 48px;
+  }
+  .section4 {
+    padding: 35px 0;
+  }
+  .container4 {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  .div11 {
+    width: 42%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 18px;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.08);
+  }
+  .img3 {
+    width: 38px;
+    padding-bottom: 10px;
+  }
+  .title7 {
+    font-size: 14px;
+  }
+  .parag8 {
+    font-size: 11px;
+    line-height: 16px;
+  }
+  .section5 {
+    padding: 45px 0;
+    background-color: white;
+  }
+  .title8 {
+    color: rgb(0, 105, 112);
+  }
+  .parag9 {
+    display: none;
+  }
+  .div12 {
+    display: block;
+  }
+  .div13 {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    text-align: left;
+    margin-bottom: 22px;
+  }
+  .circle1 {
+    width: 45px;
+    height: 45px;
+    margin: 0;
+    font-size: 13px;
+  }
+  .title9 {
+    color: rgb(0, 91, 96);
+    font-size: 15px;
+  }
+  .parag10 {
+    color: rgb(100, 100, 100);
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .section6 {
+    padding: 40px 0;
+  }
+  .container6 {
+    width: 90%;
+  }
+  .title10 {
+    font-size: 26px;
+  }
+  .div14 {
+    display: block;
+  }
+  .div15 {
+    width: auto;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .section6 .div15:nth-child(2) {
+    display: none;
+  }
+  .parag11 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .div16 {
+    justify-content: center;
+    display: block;
+  }
+  .user {
+    margin: auto;
+  }
+  .section7 {
+    display: none;
+  }
+  footer {
+    padding: 40px 0;
+    background-color: white;
+  }
+  .container8 {
+    width: 90%;
+    display: block;
+    text-align: center;
+  }
+  footer .div17 {
+    width: 100%;
+    background-color: white;
+    padding: 0;
+  }
+  footer .logo1 {
+    width: 150px;
+    margin: 0 auto 20px auto;
+  }
+  footer .parag14 {
+    color: rgb(100, 100, 100);
+    font-size: 13px;
+    line-height: 22px;
+  }
+  footer .div18 {
+    width: 100%;
+    padding: 0;
+    margin-top: 20px;
+  }
+  .title13 {
+    font-size: 14px;
+  }
+  .link4 {
+    font-size: 12px;
+  }
+  .circle1 {
+    display: none;
+  }
+  .title9 {
+    display: none;
+  }
+  
 }
